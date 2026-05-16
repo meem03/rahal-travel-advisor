@@ -1,5 +1,43 @@
-# Vue 3 + TypeScript + Vite
+# Rahal Travel Advisor 🌍
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Rahal is a Vue.js + TypeScript travel destination advisor that helps users discover destinations based on preferences, budget, climate, and travel style.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Features
+
+- User signup and login
+- Personalized travel preferences
+- Destination search and filtering
+- Smart recommendations
+- Wishlist system
+- Ratings system
+- Admin destination management
+- Image upload and validation
+- LocalStorage persistence
+
+## Screenshots
+
+### Home Page
+![Home Page](public/screenshots/home.png)
+
+### Login Page
+![Login Page](public/screenshots/login.png)
+
+### Wishlist Page
+![Wishlist Page](public/screenshots/wishlist.png)
+
+### Admin Page
+![Admin Page](public/screenshots/admin.png)
+
+## Technologies
+
+- Vue 3
+- TypeScript
+- Vite
+- CSS
+- LocalStorage
+
+## How to Run
+
+```bash
+npm install
+npm run dev
